@@ -1,3 +1,47 @@
+<div align="center">
+
+# Bank Management System
+
+**A classic console exercise in account bookkeeping.**
+
+<sub>CLASSIC C++ &nbsp; • &nbsp; Banking & records &nbsp; • &nbsp; Console application</sub>
+
+</div>
+
+---
+
+## What this project explores
+
+Create accounts, deposit, withdraw, check balances, and manage records.
+
+**Try this:** Create or inspect account records, then trace deposits, withdrawals and reports.
+
+## Source & structure
+
+| Path | Description |
+|---|---|
+| [`Turbo C++ DOS`](./Turbo%20C++%20DOS) | Original project asset / directory |
+| [`Visual C++ 2010`](./Visual%20C++%202010) | Original project asset / directory |
+| [`docs`](./docs) | Original project asset / directory |
+| [`run-in-browser.html`](./run-in-browser.html) | Original project asset / directory |
+
+
+## Running the C++ version
+
+The checked-in source includes historical console programs. Some variants use Turbo C++ / DOS-specific headers and APIs, so **a modern C++ compiler may require porting or a compatibility layer**. Open the original source to find its entry point; compile with a compiler compatible with the program's dialect.
+
+## Learning objectives
+
+- Trace the input/output cycle of a stateful console program.
+- Inspect the program's control flow and data handling.
+- Identify portability improvements needed for modern compilers or browsers.
+
+## Disclaimer
+
+A programming exercise, not a production banking & records system. Use invented test records and do not store confidential information.
+
+<details><summary><strong>Original project notes</strong></summary>
+
 # Bank Management System
 
 Create accounts, deposit, withdraw, check balances, and manage records.
@@ -29,3 +73,9 @@ The previous WebAssembly GitHub Actions workflow is not required for this standa
 ### Note
 
 This repository contains archived, third-party classroom-style C++ examples from a previously supplied collection. Review attribution and redistribution rights before publishing as your own original work.
+
+</details>
+
+---
+
+<sub>Part of the [C++ project collection](https://github.com/sharanyapal?tab=repositories).</sub>
